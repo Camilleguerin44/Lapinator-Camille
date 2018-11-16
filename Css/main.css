@@ -169,7 +169,7 @@ button {
       -ms-flex: 1.5;
           flex: 1.5;
   z-index: 1;
-  background-image: url("rabbit.jpg");
+  background-image: url("img/rabbit.jpg");
   background-size: cover;
 }
 
